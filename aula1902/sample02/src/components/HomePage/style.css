@@ -1,0 +1,8 @@
+.home-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrpa;
+    width: 100px;
+    margin: 0 auto;
+}
