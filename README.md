@@ -3,8 +3,6 @@
 ## Função: 
 * Desenvolvimento de aplicativos para dispositivos móveis
 
-## Classificação: 
-* Execução
 
 ## Atribuições e Responsabilidades:
 * Documentar, construir e manter sistemas de informação para plataformas móveis.
